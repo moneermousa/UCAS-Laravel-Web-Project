@@ -1,0 +1,23 @@
+@font-face {
+    font-family: BadScript;
+    src: url("../fonts/BadScript-Regular.ttf");
+}
+
+@font-face {
+    font-family: Graziano;
+    src: url("../fonts/Graziano.ttf");
+}
+
+.top-bar{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    
+}
+
+.top-bar-btn {
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    
+}
+
